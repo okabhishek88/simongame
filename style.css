@@ -1,0 +1,72 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+h1,
+h2 {
+    text-align: center;
+    margin-top: 1rem;
+    color: white;
+}
+
+body {
+    font-family: "Open Sans", sans-serif;
+    background-color: black;
+}
+
+.main-container {
+    box-sizing: border-box;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+
+.outer {
+    display: flex;
+    align-items: center;
+    border-style: solid;
+    padding: 0.75rem;
+    background-color: black;
+}
+
+.blue {
+    background-color: blue;
+}
+
+.green {
+    background-color: green;
+}
+
+.yellow {
+    background-color: yellow;
+}
+
+.orange {
+    background-color: orange;
+}
+
+.btn {
+    width: 10rem;
+    height: 10rem;
+    border-radius: 1rem;
+    margin: 1rem;
+    margin-bottom: 1rem;
+    padding: 1rem;
+    font-weight: bold;
+    /* color: white; */
+}
+
+.flash {
+    background-color: white;
+}
+
+.user-flash {
+    background-color: red;
+}
+
+.heart {
+    color: red; 
+    font-size: 1.5em;
+}
