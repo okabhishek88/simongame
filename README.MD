@@ -23,7 +23,7 @@ Test your memory and see how long you can last!
 
 ---
 
-## Screenshots
+## 📸 Screenshots
 
 Here are some screenshots of the **Simon Game** app in action:
 
