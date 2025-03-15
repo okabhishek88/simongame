@@ -1,4 +1,4 @@
-# Simon Game 🎮
+# 🚀 Simon Game 🎮
 
 ## Overview
 The **Simon Game** is a fun, memory-based game where the player must repeat a sequence of flashing lights and sounds in the correct order. The sequence becomes progressively longer with each round, testing your memory and concentration skills. The goal is to remember and replicate the longest possible sequence without making any mistakes.
@@ -14,7 +14,7 @@ The **Simon Game** is a fun, memory-based game where the player must repeat a se
 
 ---
 
-## Demo
+## 🎯 Demo
 
 Check out the live demo of the **Simon Game**!  
 Test your memory and see how long you can last!
